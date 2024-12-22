@@ -1,0 +1,4 @@
+config
+controllers/debug.log
+models/debug.log
+uploads
